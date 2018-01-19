@@ -19,9 +19,9 @@ namespace BaiduAI
 {
     public partial class Form1 : Form
     {
-        private string APP_ID = "10711869";
-        private string API_KEY = "cvjazulCCz109WQS6l3Pm6Pn";
-        private string SECRET_KEY = "8ylhtdkTKjWGZSXY61TGbhnPyLo4vSSc";
+        private string APP_ID = "";
+        private string API_KEY = "";
+        private string SECRET_KEY = "";
         private Face client = null;
         /// <summary>
         /// 是否可以检测人脸

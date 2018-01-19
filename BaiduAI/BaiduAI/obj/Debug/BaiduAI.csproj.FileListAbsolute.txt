@@ -21,3 +21,5 @@ D:\Code\Net\人脸识别AIDemo\BaiduAI\BaiduAI\obj\Debug\BaiduAI.Properties.Reso
 D:\Code\Net\人脸识别AIDemo\BaiduAI\BaiduAI\obj\Debug\BaiduAI.csproj.GenerateResource.Cache
 D:\Code\Net\人脸识别AIDemo\BaiduAI\BaiduAI\obj\Debug\BaiduAI.exe
 D:\Code\Net\人脸识别AIDemo\BaiduAI\BaiduAI\obj\Debug\BaiduAI.pdb
+D:\Code\Net\baiduAIFaceIdentify\BaiduAI\BaiduAI\obj\Debug\BaiduAI.exe
+D:\Code\Net\baiduAIFaceIdentify\BaiduAI\BaiduAI\obj\Debug\BaiduAI.pdb
